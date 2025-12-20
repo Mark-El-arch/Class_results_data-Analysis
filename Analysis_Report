@@ -1,0 +1,24 @@
+PHASE 1: Basic Inspection Interpretation: Understanding the Dataset
+Total entries = 669; 669 students
+
+Minimum scores:          Maximum scores:      Mean scores:
+Q1_10 - 0                Q1_10 - 10           Q1_10 - 6.08
+Q2_10 - 0                Q2_10 - 10           Q2_10 - 5.33
+Q3_10 - 0                Q3_10 - 10           Q3_10 - 6.32
+Q4_10 - 0                Q4_10 - 10           Q4_10 - 6.98
+MS_30 - 2.00             MS_30 - 29.00        MS_30 - 16.54
+T_70  - 0                T_70  - 61           T_70  - 35.36
+CA_30 - 0                CA_30 - 26           CA_30 - 15.16
+
+
+Null values:
+Q1_10 - 111; 111 students missed quiz 1
+Q2_10 - 83;  83 students missed quiz 2
+Q3_10 - 50   50 students missed quiz 3
+Q4_10 - 48   48 students missed quiz 4
+MS_30 - 8    8 students missed the mid-semester exams
+
+REPORT:
+Outliers in quiz and mid semester score using the interquartile range method.
+A few number of students, in some quizzes, none, displayed unusually low scores
+indicating little performance extremes within the class
