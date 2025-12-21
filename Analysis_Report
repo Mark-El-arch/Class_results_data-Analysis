@@ -29,7 +29,7 @@ this analysis public on github.
 
 
 
-Phase 2:
+PHASE 2:
 Analysing the mean and standard deviation values of the various assessments.
 
 REPORT:
@@ -49,3 +49,30 @@ Conclusions:
 1. Poor mid semester performance may be due to fatigue down the semester.
 2. It may also be due to complacency, probably concluding from the quizzes the lightness of
    the mid semester exam.
+
+
+PHASE 3:
+Analysing the relationships between the quizzes, mid semester exams and the total.
+Trying to understand how the various quizzes and mid semester affected our total scores.
+
+Correlations(2 d.p) on Total(T_70):
+Q1_10 - 0.49
+Q2_10 - 0.43
+Q3_10 - 0.39
+Q4_10 - 0.38
+MS_30 - 0.74
+
+REPORT:
+Studying the various correlations of the quizzes and mid semester on our total scores,
+it is of no doubt that the mid semester exams had a great impact on our total scores, indicating
+that our total scores greatly depended on the mid semester exams.
+The quizzes also fairly influenced on our total scores, quizzes 1 and 2 having more impact
+than 3 and 4.
+The mid semester exams had greatest impact on the total, followed by quiz 1, and then 2, down
+to 3 and 4.
+This is very logical, because, each quiz was out of 10, whereas the mid semester exams was out
+of 30.
+
+Conclusions:
+From above, I can draw a conclusion that students who performed generally well in quizzes 1 and
+2, and also in the mid semester exams had better total scores than the others.
