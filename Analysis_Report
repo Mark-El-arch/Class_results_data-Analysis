@@ -6,7 +6,7 @@ Q1_10 - 0                Q1_10 - 10           Q1_10 - 6.08
 Q2_10 - 0                Q2_10 - 10           Q2_10 - 5.33
 Q3_10 - 0                Q3_10 - 10           Q3_10 - 6.32
 Q4_10 - 0                Q4_10 - 10           Q4_10 - 6.98
-MS_30 - 2.00             MS_30 - 29.00        MS_30 - 16.54
+MS_30 - 2.00             MS_30 - 29.00        MS_30 - 13.54
 T_70  - 0                T_70  - 61           T_70  - 35.36
 CA_30 - 0                CA_30 - 26           CA_30 - 15.16
 
@@ -19,6 +19,33 @@ Q4_10 - 48   48 students missed quiz 4
 MS_30 - 8    8 students missed the mid-semester exams
 
 REPORT:
-Outliers in quiz and mid semester score using the interquartile range method.
-A few number of students, in some quizzes, none, displayed unusually low scores
+I identified the outliers in the quizzes and mid semester score using the interquartile range
+method.A few number of students, in some quizzes, none, displayed unusually low scores
 indicating little performance extremes within the class
+
+After a night of thinking through my achievement, completing phase 1 of my real data analysis,
+I decided to drop the columns for the names and student IDs of my class, since I'll be making
+this analysis public on github.
+
+
+
+Phase 2:
+Analysing the mean and standard deviation values of the various assessments.
+
+REPORT:
+Looking through the mean values, I noticed the performances were above average indicating
+that the quizzes were of fair difficulty and so, apart from a few exceptions seen from the
+outliers, my class generally performed well in the quizzes.
+But for the mid semester exams, I noticed the mean is below average, indicating that our
+performance in the exam declined, in relation to the quizzes, supporting this with the fact
+that there were no outliers in the mid semester exams(no extreme highs or low).
+
+Looking through the standard deviation values also, I could see some form inconsistency in
+our performances in quizzes 1,2 and 4 and the mid semester exams, as compared to the quiz 3
+with a lower standard deviation, indicating a little more stable performance than the other
+quizzes mentioned above.
+
+Conclusions:
+1. Poor mid semester performance may be due to fatigue down the semester.
+2. It may also be due to complacency, probably concluding from the quizzes the lightness of
+   the mid semester exam.
