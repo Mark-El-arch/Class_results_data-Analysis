@@ -76,3 +76,31 @@ of 30.
 Conclusions:
 From above, I can draw a conclusion that students who performed generally well in quizzes 1 and
 2, and also in the mid semester exams had better total scores than the others.
+
+
+PHASE4:
+Finding the relationship between the quizzes, taking their total average, and our total
+scores.
+
+Correlation between total quizzes average, mid semester  and total scores:
+Quizzes average - 0.64
+MS - 0.74
+
+REPORT:
+Drawing insight from the correlation above, I can conclude that the quizzes collectively
+had great influence on our total scores, nonetheless, the mid semester had a greater impact on
+our total scores than the quizzes.
+I went ahead to take a sample of 5 students in my dataframe to support the above insight.
+
+Conclusion:
+This essentially means that students with higher mid semester scores tend to have higher total
+scores;
+Sample students:
+Index    MS_30    Quiz_avg    T_70
+50       8.0      3.75        23
+36       21.0     6.50        47
+278      19.0     5.00        34
+416      20       7.50        50
+87       14       2.25        23
+Looking the above data sample, it is clear that the students with high mid semester scores
+coupled with a high quiz average tend to have high total scores
