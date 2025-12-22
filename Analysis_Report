@@ -104,3 +104,22 @@ Index    MS_30    Quiz_avg    T_70
 87       14       2.25        23
 Looking the above data sample, it is clear that the students with high mid semester scores
 coupled with a high quiz average tend to have high total scores
+
+
+PHASE 5:
+Grouping students into performance levels, low, average and high, to understand what these
+categorized students did differently that set the difference.
+
+REPORT:
+Studying the data from my jupyter notebook carefully, I noticed that the performance consistency
+in the quizzes had an impact on the totals, and also good performance in the mid semester results.
+I see that the "low students" in this course, had around scores within 4-6 in their quizzes,
+"average students" had within 6-7 in their quizzes and "high students" had within 7-8
+The second result from my notebook explains it more, with the total quizzes average, it is very
+clear, the consistency in the quiz performance of students, coupled with mid semester scores
+sets the difference.
+
+Conclusion:
+I can then conclude, that in order to achieve higher total scores, taking this same scenario of
+assessment structure, I will need to perform consistently high in the quizzes and also very good
+in the mid semester exams.
