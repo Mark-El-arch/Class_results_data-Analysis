@@ -138,3 +138,10 @@ This indicates the possibility of obtaining good total scores despite poor perfo
 very first quiz, or even any quiz, but one.
 
 Lesson to myself: Early poor perform does not predict failure, but increases risk.
+
+
+
+Using matplotlib, I have visualized the mid semester exams scores and the total quiz average
+and their influence on the total scores:
+And there it was clear, though there be a few exceptions, that the total scores depend directly
+on the mid semester scores and the quizzes, as they increase, the total scores also increase
