@@ -140,8 +140,13 @@ very first quiz, or even any quiz, but one.
 Lesson to myself: Early poor perform does not predict failure, but increases risk.
 
 
+Insights from Data Visualizations:
 
 Using matplotlib, I have visualized the mid semester exams scores and the total quiz average
 and their influence on the total scores:
 And there it was clear, though there be a few exceptions, that the total scores depend directly
-on the mid semester scores and the quizzes, as they increase, the total scores also increase
+on the mid semester scores and the quizzes, as they increase, the total scores also increase.
+
+Again, I represented our performance levels on a pie chart, facilitating understanding of our
+general performance. Even to the layman, it is much clear that our general performance was not
+good enough, as less than 2% of the class scored above 55
